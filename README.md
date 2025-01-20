@@ -1,2 +1,2 @@
-# Ninjat-tycoon
+# Ninja-tycoon
 the 🐐 Back at it again

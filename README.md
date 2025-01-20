@@ -1,0 +1,2 @@
+# Ninjat-tycoon
+🐐
